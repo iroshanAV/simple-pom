@@ -1,0 +1,6 @@
+19:09:29.551 [main] INFO  testcases.LoginPageTests - TC001: check login successful
+19:09:31.383 [main] INFO  testcases.LoginPageTests - TC002: check password required message
+19:09:33.166 [main] INFO  testcases.LoginPageTests - TC002: check Username required message
+20:25:46.415 [main] INFO  testcases.LoginPageTests - TC001: check login successful
+20:25:49.012 [main] INFO  testcases.LoginPageTests - TC002: check password required message
+20:25:51.739 [main] INFO  testcases.LoginPageTests - TC002: check Username required message
